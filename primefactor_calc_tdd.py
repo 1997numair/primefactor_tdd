@@ -1,1 +1,1 @@
-print("heldlo 6")
+print("heldlo 4")
