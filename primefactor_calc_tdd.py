@@ -12,7 +12,7 @@ def find_primes(user_no):
             factor_list.append(i)
     return factor_list
 
-_primeno_of=4
+_primeno_of=40
 find_primes(_primeno_of)
 print(find_primes(_primeno_of))
 
