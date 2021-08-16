@@ -3,4 +3,5 @@ def find_primes(user_no):
         return 2
 _primeno_of=1
 find_primes(_primeno_of)
+print(find_primes())
 
